@@ -5,6 +5,8 @@ description: En instruks på hvordan du kan kjøre en Nextcloud snap bak en Ngin
 id: 9
 ---
 
+*NB: Dette er en instruks skrevet i 2022 for min egen hjemmelab den gangen.*
+
 ## Hva er Nextcloud? 
 
 Nextcloud er et skylagringsalternativ til Dropbox og Google Drive, som er åpen kildekode. Du kan kjøre det lokalt på din egen maskin, hvilket betyr at du har kontroll over dine filer til enhver tid. Med Nextcloud Hub, satser de på å ha én intregret løsning for fillagring, fildeling, preiketjenester, epost-tjenester og dokumentsamarbeid. I tillegg er det også mulig å installere diverse apper inn i Nextcloud-installasjonen din. Selv om de startet i 2016, så estimerer de selv at det er nå over 400.000 Nextcloud-maskintjenere på nett. 

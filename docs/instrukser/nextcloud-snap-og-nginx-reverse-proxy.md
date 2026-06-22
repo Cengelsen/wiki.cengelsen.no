@@ -5,6 +5,8 @@ description: En instruks på hvordan man kan rigge opp Nginx som en proxy-server
 id: 6
 ---
 
+*NB: Dette er en instruks skrevet i 2022 for min egen hjemmelab den gangen.*
+
 ## Problemstilling
 
 Det jeg ønsker å gjøre er å ha en felles container som håndterer all "reversert proxy"-omdirigering og SSL-terminering for alle de andre containerne på serveren. Jeg ønsker å bruke Nginx for dette formålet. 

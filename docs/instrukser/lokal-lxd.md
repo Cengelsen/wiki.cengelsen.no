@@ -5,6 +5,8 @@ description: En instruks på hvordan rigge opp LXD lokalt for virtualisering.
 id: 5
 ---
 
+*NB: Dette er en instruks skrevet i 2022 for min egen hjemmelab den gangen*
+
 ## Hva er LXD?
 
 LXD er en CLI-tjeneste for å forvalte og drifte virtuelle maskiner og beholdere. LXD er skrevet i Go og er lisensiert under Apache2-lisensen. LXD kan deles opp i LXD (Linux Daemon) og LXC (Linux Containers). 
