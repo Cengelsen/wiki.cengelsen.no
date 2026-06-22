@@ -13,8 +13,7 @@ Det jeg ønsker å gjøre er å ha en felles container som håndterer all "rever
 
 ## Forklaring
 
-Det kan kanskje være litt vanskelig å se for seg hvordan logistikken av det blir. Det du forhåpentligvis sitter igjen med etter denne instruksen er én LXD-container som fungerer som en Nginx proxy-server, og minst én LXD-container som holder på tjenesten du ønsker å eksponere til internett. Poenget er da at proxy-serveren tar imot alle forespørsler fra internett og viderefører trafikken til containeren som holder på tjenesten. Både proxy-containeren og tjeneste-containeren kjører begge en instans av Nginx
-som "kommuniserer" med hverandre for å dirigere nett-trafikken korrekt.
+Det kan kanskje være litt vanskelig å se for seg hvordan logistikken av det blir. Det du forhåpentligvis sitter igjen med etter denne instruksen er én LXD-container som fungerer som en Nginx proxy-server, og minst én LXD-container som holder på tjenesten du ønsker å eksponere til internett. Poenget er da at proxy-serveren tar imot alle forespørsler fra internett og viderefører trafikken til containeren som holder på tjenesten. Både proxy-containeren og tjeneste-containeren kjører begge en instans av Nginx som "kommuniserer" med hverandre for å dirigere nett-trafikken korrekt.
 
 ## Installere og konfigurere LXD
 
