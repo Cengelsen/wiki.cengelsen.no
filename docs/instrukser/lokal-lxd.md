@@ -5,7 +5,7 @@ description: En instruks på hvordan rigge opp LXD lokalt for virtualisering.
 id: 5
 ---
 
-*NB: Dette er en instruks skrevet i 2022 for min egen hjemmelab den gangen*
+*NB: Dette er en instruks skrevet i 2022 for min egen hjemmelab den gangen.*
 
 ## Hva er LXD?
 
