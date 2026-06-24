@@ -18,6 +18,7 @@ theme:
 nav:
   - Home: index.md
   - Instrukser: instrukser/index.md
+  - Kreativt: kreativt/index.md
 
 
 extra_css:
