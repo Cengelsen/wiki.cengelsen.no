@@ -5,7 +5,7 @@ Når du var her tidlegare
 Kunne ikkje sjå deg i auge  
 Du er nett som ein engel  
 Huda di får meg til å gråta  
-Du flyt som ein fjør  
+Du flyt som ei fjør  
 I en nydeleg verd  
 Eg ønsker eg var spesiell  
 Så jækla spesiell  
