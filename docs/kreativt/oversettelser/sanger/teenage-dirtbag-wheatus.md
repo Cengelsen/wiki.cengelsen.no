@@ -2,45 +2,41 @@ Kvalpslaur - Hvetes
 
 [Vers 1]  
 Noelle heiter ho,  
-eg har ho i draumane
+eg har ho i draumane  
 ho bjøllar meg,  
 eg skal gymma om ei halvtime  
 Å, som ho rockar  
 i tøysko og sokkar  
-men ho veit ikkje  
-kven eg er, og ho  
-gjev ikkje ein faen om meg  
+men ho veit ikkje kven eg er,  
+og ho gjev ikkje ein faen om meg  
 
 [Refreng]  
 For eg berre ein kvalpslaur, kjære  
 Ja, eg er berre ein kvalpslaur, kjære  
-Høyr på Jernmøy,  
+Høyr på Jernjomfruen,  
 kjære, med meg, ååh  
 
 [Vers 2]  
 Kjærasten hennar er ein kuk  
 og han ber våpen på skulen  
-Og kjende han sanninga 
+Og kjende han sanninga  
 hadde han banka meg lett  
-Han gjer som han vil, og  
-køyrer ein resarbil 
-Men han veit ikkje kven  
-eg er, og han gjev ikkje  
-ein faen om meg  
+Han gjer som han vil,  
+i ein blank resarbil 
+Men han veit ikkje kven eg er,  
+og han gjev ikkje ein faen om meg  
 
 [Refreng]  
 For eg er berre ein kvalpslaur, kjære  
 Ja, eg er berre ein kvalpslaur, kjære  
-Høyr på Jernmøyen,  
+Høyr på Jernjomfruen,  
 kjære, med meg, ååh
 
 [Omkved]  
 Åh, ja, kvalpslaur  
-Nei, ho veit ikkje  
-kva ho manglar  
+Nei, ho veit ikkje kva ho manglar  
 Åh, ja, kvalpslaur  
-Nei, ho veit ikkje  
-kva ho manglar  
+Nei, ho veit ikkje kva ho manglar  
 
 [Vers 3]  
 Gåman, eg er som mugg,  
@@ -55,16 +51,14 @@ Og kvifor gjev ho ein faen om meg?
 
 [Bru]  
 eg har to billettar  
-til Jernmøy, kjære  
+til Jernjomfruen, kjære  
 Bli med på fredag,  
 Kva anna skal du gjere?  
-Eg er berre ein kvalpslaur,  
-kjære, som deg, ååh  
+Eg er berre ein kvalpslaur, kjære,  
+som deg, ååh  
 
 [Omkved]  
 Åh, ja, kvalpslaur  
-Nei, ho veit ikkje  
-kva ho manglar  
+Nei, ho veit ikkje kva ho manglar  
 Åh, ja, kvalpslaur  
-Nei, ho veit ikkje  
-kva ho manglar  
+Nei, ho veit ikkje kva ho manglar  
