@@ -11,8 +11,8 @@ men ho veit ikkje kven eg er,
 og ho gjev ikkje ein faen om meg  
 
 [Refreng]  
-For eg berre ein kvalpslaur, kjære  
-Ja, eg er berre ein kvalpslaur, kjære  
+eg er no berre ein kvalpslaur, kjære  
+Ja, eg er no berre ein kvalpslaur, kjære  
 Høyr på Jernjomfruen,  
 kjære, med meg, ååh  
 
@@ -27,8 +27,8 @@ Men han veit ikkje kven eg er,
 og han gjev ikkje ein faen om meg  
 
 [Refreng]  
-For eg er berre ein kvalpslaur, kjære  
-Ja, eg er berre ein kvalpslaur, kjære  
+eg er no berre ein kvalpslaur, kjære  
+Ja, eg er no berre ein kvalpslaur, kjære  
 Høyr på Jernjomfruen,  
 kjære, med meg, ååh
 
