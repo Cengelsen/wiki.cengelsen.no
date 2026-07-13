@@ -1,6 +1,6 @@
 Toretreft - VS/LS
 
-[Intro]
+[Intro]  
 Ah-ah, ah-ah-ah  
 Ah-ah, ah-ah-ah  
 Ah-ah, ah-ah-ah  
@@ -81,8 +81,8 @@ Toretreft
 Ja, ja, ja, toretreft  
 Toretreft (Toretreft)  
 Oi, kjære, kjære (Toretreft)  
-Du vorte toretreft  
+Du vart toretreft  
 (Ah-ah, ah-ah-ah) Toretreft  
 (Ah-ah, ah-ah-ah) Toretreft  
 (Ah-ah, ah-ah-ah) Toretreft  
-(Ah-ah, ah-ah-ah) Du vorte toretreft  
+(Ah-ah, ah-ah-ah) Du vart toretreft  
