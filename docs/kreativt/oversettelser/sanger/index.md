@@ -13,3 +13,7 @@ Teenage Dirtbag av Wheatus oversatt til nynorsk
 ## [Toretreft - VS/LS](thunderstruck-acdc.md)
 
 Thunderstruck av AC/DC oversatt til nynorsk
+
+## [Eg er atten - Trusvedkjenninga](im-eighteen-creed.md)
+
+I'm Eighteen av Creed oversatt til nynorsk
