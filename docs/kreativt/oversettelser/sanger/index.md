@@ -17,3 +17,7 @@ Thunderstruck av AC/DC oversatt til nynorsk
 ## [Eg er atten - Trusvedkjenninga](im-eighteen-creed.md)
 
 I'm Eighteen av Creed oversatt til nynorsk
+
+## [Endring (i flugenes heim)](change-deftones.md)
+
+Change (In the House of Flies) av Deftones oversatt til nynorsk
