@@ -6,7 +6,7 @@ denne driten taklar eg lett, mann, eg er ein kjøter
 Eg bit fiseboblane i badekaret, me røykjar Symbiotar  
 Røykjar på Hurra Gullberg, sør-egyptisk, pelsburger de luxe, MillionFlax-lodd, skunk, broder rev  
 Me røykjar gjødselbille  
-Eg er på tolv Vicodin, og røykjar på Scooby-Doo kuk  
+Eg er på tolv Vicodin, og røykjar på Luddi-Du kuk  
 Me røykjar Sequoia fe-kvinne  
 Me sniffar på den gode bøffelsoldat, tamarind, Jordanske grøssingane  
 Dei må ha amnesi, dei gløymde at eg er han  
