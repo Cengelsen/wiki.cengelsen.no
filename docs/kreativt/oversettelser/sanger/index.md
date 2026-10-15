@@ -21,3 +21,7 @@ I'm Eighteen av Creed oversatt til nynorsk
 ## [Endring (i flugenes heim)](change-deftones.md)
 
 Change (In the House of Flies) av Deftones oversatt til nynorsk
+
+## [Drakula flyt 3](dracula-flow-3-plummcorp-records.md)
+
+DRACULA FLOW 3 av PLUMMCORP RECORDS oversatt til nynorsk
